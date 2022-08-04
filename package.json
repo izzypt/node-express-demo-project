@@ -9,8 +9,9 @@
   "author": "simao_bonvalot",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.5.6",
-    "express": "^4.15.3",
-    "mysql": "^2.13.0"
+    "consign": "^0.1.6",
+    "ejs": "^2.5.6", 
+    "express": "^4.15.3", 
+    "mysql": "^2.13.0" 
   }
 }
