@@ -4,14 +4,14 @@ Building a basic project with node and express to serve as news portals.
 
 ## Dependencies
 
-  ### Express
+  #### Express
     As backend framework
 
-  ### MySQL
+  #### MySQL
     For the database
 
-  ### EJS
+  #### EJS
     For dynamic rendering of javascript in the views templates.
 
-  ### Consign
+  #### Consign
     As an auto-loader for the routes , db and models.
