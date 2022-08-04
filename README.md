@@ -1,6 +1,6 @@
 # node-express-demo-project
 
-Building a basic project with node and express to serve as news portals.
+Building a basic project with node and express to store and serve as a news portal.
 
 ## Dependencies
 
