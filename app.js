@@ -1,8 +1,13 @@
-//import server and configurations from server file
-const app = require('./config/server.js')
+/*******************/
+/* --- IMPORT --- */
+/*****************/
+const app = require('./server.js')
+const PORT = 3000;
 
-//Set server to listen on port 3000
-app.listen(3000, () => {
-	console.log("Server running on port 3000")
-	}
-)
+
+/***************/
+/* RUN SERVER */
+/*************/
+app.listen(PORT, () =>{
+    console.log(`Listening on port ${PORT}...`)
+});
